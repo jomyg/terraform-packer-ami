@@ -4,7 +4,7 @@
 ---
 
 ## Description
-Packer is a tool for build a golden images also packer is lightwight. As of here, I have used to provision the image using a packer|terraform script.
+Packer is a tool for build a golden images also packer is lightwight. As of here, I have used to provision the image using a packer script.
 
 -----
 ### How to install packer on your machine
