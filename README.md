@@ -4,7 +4,7 @@
 ---
 
 ## Description
-Packer is a tool for build a golden images also packer is lightwight. As of here, I have used to provision the image using a ansible script and who you guys use this additional options like shell. 
+Packer is a tool for build a golden images also packer is lightwight. As of here, I have used to provision the image using a packer|terraform script.
 
 ### To execute the project
 
