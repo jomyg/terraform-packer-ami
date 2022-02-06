@@ -8,7 +8,9 @@ Packer is a tool for build a golden images also packer is lightwight. As of here
 
 ### To execute the project
 
+```
 packer init .
 packer fmt .
 packer validate .
 packer build .
+```
