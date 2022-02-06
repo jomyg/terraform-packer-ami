@@ -1,0 +1,10 @@
+## Instalation of packer on Ec2-linux server
+
+wget https://releases.hashicorp.com/packer/1.7.10/packer_1.7.10_linux_amd64.zip
+unzip packer_1.7.10_linux_amd64.zip
+mv packer /usr/local/sbin/
+rm -rf packer_1.7.10_linux_amd64.zip
+~]# packer --version
+1.7.10
+#
+#
